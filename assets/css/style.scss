@@ -1,0 +1,26 @@
+---
+---
+
+@import "minima";
+
+/* Custom Navigation Styles */
+.site-nav {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.site-nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Additional Custom Styles */
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+

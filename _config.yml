@@ -1,0 +1,20 @@
+title: "Rethinking Foundations of Real-world ML"
+email: reform-ml-list@stanford.edu
+description: "A reading group exploring foundational aspects of real-world machine learning."
+theme: minima
+baseurl: "/REFORM-reading-group" # Leave this empty unless you have a custom domain
+url: "https://anaymehrotra.github.io" # Replace with your GitHub Pages URL
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Schedule"
+    url: "/schedule/"
+
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
