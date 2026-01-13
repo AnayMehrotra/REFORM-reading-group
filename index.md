@@ -16,7 +16,7 @@ answering a few questions:
 
 ## More info
 
-- **Tentative Meetings:** Weekdays at 5pm in CoDa E201 (we will confirm the day, time, and location via email)
+- **Meetings:** Thursdays at 5pm (we will confirm the location via email)
 - **Mailing List:** [reform-ml-list@stanford.edu](mailto:reform-ml-list@stanford.edu)
 - **Sign up to be a discussant:** [Google Form](https://forms.gle/Pdz9AQ7mWVDMBJwm7)
 - **Questions?** Email anaymehrotra1 [at] gmail [dot] com, saberi [at] stanford [dot] edu, gvelegkas [at] google [dot] com
