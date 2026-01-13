@@ -4,6 +4,8 @@ title: "Schedule and Past Meetings"
 permalink: /schedule/
 ---
 
+Meetings are held every Thursday at 5pm (location TBD). 
+
 Please sign up to be a discussant [here](https://tinyurl.com/reform-ml-signup-w26)!
 Goal(s) of the discussant group is to:
 
