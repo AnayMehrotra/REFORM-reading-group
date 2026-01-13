@@ -8,7 +8,7 @@ of ML systems. And yet, we lack a cohesive understanding of how these systems
 work, and the principles and laws (if any!) that govern their behavior. To this
 end, the goal of this reading group will be to explore the intersection of
 cutting-edge experiments and corresponding explanations, with the goal of
-answering a few questions:
+answering a few questions: 
 
 - How can tools from statistics, CS theory, and operations research inform a better understanding of machine learning algorithms and systems?
 - What are the right questions to ask, and phenomena to explain—at what level of abstraction should we be aiming to explain them?
