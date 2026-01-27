@@ -46,7 +46,7 @@ Signing up is a great way to (1) force yourself to engage with the content of th
 | 2025-10-30 | Post-deployment/Safety 3 (Privacy and Memorization) | [Slides 1](/assets/Privacy1.pdf) [Slides 2](/assets/Privacy2.pdf) [Paper 1](https://arxiv.org/abs/1802.08232) [Paper 2](https://arxiv.org/abs/2012.07805) |
 | 2025-11-06 | Post-deployment/Safety 4 (Emergent Misalignment) | [Paper](https://arxiv.org/abs/2502.17424) |
 | 2025-11-13 | Post-deployment/Safety 5 (Out-of-Context Reasoning) | [Slides](/assets/OOCReasoning.pdf) [Paper 1](https://arxiv.org/abs/2309.00667) [Paper 2](https://arxiv.org/abs/2406.14546) [Paper 3](https://arxiv.org/abs/2412.04614) [Paper 4](https://arxiv.org/abs/2506.10887) |
-| 2026-01-22 | Introduction + Sharpness and Training Dynamics 1 (Edge of Stability) | [Slides](/assets/EOS.pdf) [Paper](https://arxiv.org/abs/2103.00065) [Extra Reading 1](https://arxiv.org/abs/2209.15594) [Extra Reading 2](https://arxiv.org/abs/2207.12678) |
+| 2026-01-22 | Introduction + Sharpness and Training Dynamics 1 (Edge of Stability) | [Slides](https://anaymehrotra.com/REFORM-reading-group/assets/EOS.pdf) [Paper](https://arxiv.org/abs/2103.00065) [Extra Reading 1](https://arxiv.org/abs/2209.15594) [Extra Reading 2](https://arxiv.org/abs/2207.12678) |
 
 
 
