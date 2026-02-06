@@ -6,6 +6,8 @@ permalink: /schedule/
 
 Meetings are held every Thursday at 5pm ((CoDa W101)). 
 
+A list of the topics, suggested papers, and timeline for this quarter is available [here](https://docs.google.com/spreadsheets/d/14ChmArQCa4wlQ3vE7taNzmzd96d0N_a7XaJOgaDPunU/edit?gid=0#gid=0)
+
 Please sign up to be a discussant [here](https://tinyurl.com/reform-ml-signup-w26)!
 Goal(s) of the discussant group is to:
 
@@ -47,6 +49,7 @@ Signing up is a great way to (1) force yourself to engage with the content of th
 | 2025-11-06 | Post-deployment/Safety 4 (Emergent Misalignment) | [Paper](https://arxiv.org/abs/2502.17424) |
 | 2025-11-13 | Post-deployment/Safety 5 (Out-of-Context Reasoning) | [Slides](/assets/OOCReasoning.pdf) [Paper 1](https://arxiv.org/abs/2309.00667) [Paper 2](https://arxiv.org/abs/2406.14546) [Paper 3](https://arxiv.org/abs/2412.04614) [Paper 4](https://arxiv.org/abs/2506.10887) |
 | 2026-01-22 | Introduction + Sharpness and Training Dynamics 1 (Edge of Stability) | [Slides](https://anaymehrotra.com/REFORM-reading-group/assets/EOS.pdf) [Paper](https://arxiv.org/abs/2103.00065) [Extra Reading 1](https://arxiv.org/abs/2209.15594) [Extra Reading 2](https://arxiv.org/abs/2207.12678) |
+| 2026-02-05 | Sharpness and Training Dynamics 2 (Sharpness-Aware Minimization) | [Slides 1](https://anaymehrotra.com/REFORM-reading-group/assets/05_02_2026_SAM_1) [Slides 2](https://anaymehrotra.com/REFORM-reading-group/assets/05_02_2026_SAM_2)  [Paper 1](https://arxiv.org/abs/2010.01412) [Paper 2](https://arxiv.org/abs/2302.07011) |
 
 
 
