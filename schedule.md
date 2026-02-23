@@ -51,7 +51,9 @@ Signing up is a great way to (1) force yourself to engage with the content of th
 | 2026-01-22 | Introduction + Sharpness and Training Dynamics 1 (Edge of Stability) | [Slides](https://anaymehrotra.com/REFORM-reading-group/assets/EOS.pdf) [Paper](https://arxiv.org/abs/2103.00065) [Extra Reading 1](https://arxiv.org/abs/2209.15594) [Extra Reading 2](https://arxiv.org/abs/2207.12678) |
 | 2026-02-05 | Sharpness and Training Dynamics 2 (Sharpness-Aware Minimization) | [Slides 1](https://anaymehrotra.com/REFORM-reading-group/assets/05_02_2026_SAM_1.pdf) [Slides 2](https://anaymehrotra.com/REFORM-reading-group/assets/05_02_2026_SAM_2.pdf)  [Paper 1](https://arxiv.org/abs/2010.01412) [Paper 2](https://arxiv.org/abs/2302.07011) |
 | 2026-02-12 | Overfitting and Generalization 1: Double Descent | [Slides 1](https://anaymehrotra.com/REFORM-reading-group/assets/12_02_2026_Double_Descent_1.pdf) [Slides 2](https://anaymehrotra.com/REFORM-reading-group/assets/12_02_2026_Double_Descent_2.pdf) [Paper 1](https://arxiv.org/abs/1912.02292) [Paper 2](https://arxiv.org/abs/1908.05355) |
-| 2026-02-19 | Overfitting and Generalization 2: Benign Overfitting | |
+| 2026-02-19 | Overfitting and Generalization 2: Benign Overfitting | [Slides 1](https://anaymehrotra.com/REFORM-reading-group/assets/19_02_2026_Benign Overfitting_1.pdf) [Slides 2](https://anaymehrotra.com/REFORM-reading-group/assets/19_02_2026_Benign Overfitting_2.pdf) [Paper 1](https://arxiv.org/abs/1906.11300) [Paper 2](https://arxiv.org/abs/2502.07480) |
+| 2026-02-26 | Emergent Abilities 1: Grokking | [Paper 1](https://arxiv.org/abs/2301.05217) [Paper 2](https://arxiv.org/abs/2402.15175) | 
+
 
 
 
